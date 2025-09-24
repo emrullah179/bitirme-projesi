@@ -11,4 +11,5 @@
 - Referans N
 
 ## Geliştirme sırasında bana yardımcı olabilecek kılavuz kaynaklar
-Kaynağın ne hakkında olduğunu hatırlamanıza yardımcı olacak kısa bir yorum... [linke gönderecek tıklanabilir bir kelime](https://chatgpt.com/c/68d42205-9578-8331-9692-51558163886c)
+Evinizin iklim degisikligini azaltmaya ne kadar katkıda bulundugunu hesaplayan bir hesaplayıcı[Chatgpt](https://chatgpt.com/c/68d42205-9578-8331-9692-51558163886c)
+ 
